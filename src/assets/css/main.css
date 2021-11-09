@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  outline: none;
+}
+
+input {
+  outline: none;
+}
+
+@tailwind utilities;
